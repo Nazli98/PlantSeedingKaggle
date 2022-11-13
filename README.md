@@ -1,2 +1,3 @@
-# PlantSeedingKaggle
-The Data contains 12 species of a particular plant, and my machine should categorize each item in the correct category. It reached 78.80 percent accuracy..
+# Plant Seedings Classification Kaggle
+The dataset comprises 12 species of a particular plant. The project aims to create a classifier capable of determining a plant's species from a photo. I used PyTorch to split data into train, test, and validation datasets, then load the data. 
+The Convolutional Neural Network is a module, and Relu is an activation function.
